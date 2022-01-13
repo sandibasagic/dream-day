@@ -26,4 +26,12 @@ This site gives visitors and users basic and important information about the eve
 - As a user, I would like to have multiple social media links options
 - As a user, I want website to be easy usable 
 
+
+## Site Owners Goals
+
+- Providing information to visitors 
+- Promote artists 
+- Getting new fan base through social media platforms
  
+
+
