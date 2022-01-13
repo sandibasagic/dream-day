@@ -17,3 +17,13 @@ This site gives visitors and users basic and important information about the eve
 - Links to social media
 - Direct contact form
 
+## User Story
+
+- As a user, I want to know what artist are performing
+- As a user, I want to know the location of the event
+- As a user, I would like to know ticket price
+- As a user, I want to be able to easily contact the organizers
+- As a user, I would like to have multiple social media links options
+- As a user, I want website to be easy usable 
+
+ 
