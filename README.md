@@ -32,6 +32,14 @@ This site gives visitors and users basic and important information about the eve
 - Providing information to visitors 
 - Promote artists 
 - Getting new fan base through social media platforms
+
+### Requirements
+
+- Easy to navigate on various screen sizes.
+- Clear and important information provided
+- Introduce the vibe of a festival through full background images
+- Contact form and social media links
+- Minimalistic design for smooth overall experience
  
 
 
