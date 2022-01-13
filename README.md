@@ -40,6 +40,14 @@ This site gives visitors and users basic and important information about the eve
 - Introduce the vibe of a festival through full background images
 - Contact form and social media links
 - Minimalistic design for smooth overall experience
+
+### Expectations
+
+- I expect to know if a form has been submitted properly
+- I expect all links to open in new tab and work properly
+- I expect links on artist's websites
+- I expect screen size not to affect the quality of the website.
+- I expect all information to be correct and accurate.
  
 
 
