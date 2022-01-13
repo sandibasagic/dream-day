@@ -48,6 +48,13 @@ This site gives visitors and users basic and important information about the eve
 - I expect links on artist's websites
 - I expect screen size not to affect the quality of the website.
 - I expect all information to be correct and accurate.
- 
+
+
+
+# Technologies used
+
+## Languages
+- HTML 
+- CSS 
 
 
