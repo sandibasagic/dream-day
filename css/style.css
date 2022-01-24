@@ -308,3 +308,15 @@ section > h3 {
     margin: 0;
     padding: 0;
 }
+.form {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+}
+#formsend {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    padding: 0;
+}
