@@ -451,3 +451,6 @@ footer > ul > li {
 .contacth2 {
     font-size: 2em;
 }
+form {
+    padding: 20px;
+}
