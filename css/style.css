@@ -481,4 +481,8 @@ form {
 #about > h1 {
     margin-top: 60px;
 }
+#lineup > h1 {
+    font-size: 6em;
+    margin: 20px 0px;
+}
 }
