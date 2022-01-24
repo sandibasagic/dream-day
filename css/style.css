@@ -383,5 +383,14 @@ footer > ul > li {
 }
 /* tablet style */
 @media (min-width: 548px) {
-    
+.events, .location, .festival {
+    padding: 40px;
+    margin: 40px 50px;
+    font-size: 0.7em;
+    }
+#about > h1 {
+    display: flex;
+    margin-top: 30px;    
+    }
+
 } 
