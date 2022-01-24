@@ -59,3 +59,15 @@ body {
     font-weight: bold;
     font-size: 2rem;
 }
+.btn {
+    display: inline-block;
+    border: none;
+    border-radius: 15px;
+    background-color: var(--primary-color);
+    color: white;
+    padding: 0.75rem 2rem;
+    margin-top: 1.rem;
+    text-decoration: none;
+    transition: 1s ease-in;
+    font-size: 1.5rem;
+}
