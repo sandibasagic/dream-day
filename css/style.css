@@ -517,5 +517,8 @@ form {
 }
 /* Large devices style */
 @media (min-width: 1024px) {
-    
+.events, .location, .festival {
+    margin: 30px 20;
+    padding: 40px;
+    }
 }
