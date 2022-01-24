@@ -320,3 +320,18 @@ section > h3 {
     margin: 20px;
     padding: 0;
 }
+input, textarea {
+    font-family: 'Dongle', sans-serif;
+    font-size: 1.5rem;
+    color: white;
+    background: var(--primary-color);
+    display: grid;
+    grid-template-columns: 1fr;
+    border: 1px solid #fff;
+    border-radius: 18px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 5px 5px 15px 5px rgba(255,255,255,0.10);
+}
