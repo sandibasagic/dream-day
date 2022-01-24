@@ -365,3 +365,8 @@ input, textarea {
 footer > ul > li {
     margin: 20px;
 }
+.thankyou {
+    width: 100%;
+    height: 100vh;
+    background: url(../images/background-image-thankyou.jpeg)no-repeat center center/cover;
+}
