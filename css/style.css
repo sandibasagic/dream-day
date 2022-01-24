@@ -392,5 +392,12 @@ footer > ul > li {
     display: flex;
     margin-top: 30px;    
     }
-
+.mainstage {
+    font-size: 2em;
+    margin: 0;
+    }
+.dreamstage {
+    font-size: 2em;
+    margin: 0;
+    }
 } 
