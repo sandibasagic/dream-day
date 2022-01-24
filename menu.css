@@ -82,3 +82,16 @@
     text-decoration: none;
     transition: color 0.4s ease;
 }
+.menu-wrap .hamburger:focus ~ .menu {
+    visibility: visible;
+}
+  
+.menu-wrap .hamburger:focus ~ .menu > div {
+    transform: scale(1);
+    transition-duration: var(--menu-speed);
+}
+  
+.menu-wrap .hamburger:focus ~ .menu > div > div {
+    opacity: 1;
+    transition: opacity 0.4s ease 0.4s;
+}
