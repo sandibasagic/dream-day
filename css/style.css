@@ -230,3 +230,15 @@ section > h3 {
     height: 100vh;
     position: relative;
 }
+.ticketsh {
+    z-index: 1;
+    font-size: 5rem;
+    display: flex;
+    justify-content: center;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin: 0%;
+    padding: 0;
+}
