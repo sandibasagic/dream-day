@@ -302,3 +302,9 @@ section > h3 {
     margin: 0%;
     padding: 0;
 }
+.contacth2 {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
