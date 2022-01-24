@@ -472,3 +472,5 @@ form {
 .social {
     margin-top: 40px;
 }
+/* Large devices style */
+@media (min-width: 920px)
