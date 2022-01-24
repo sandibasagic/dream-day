@@ -411,5 +411,8 @@ footer > ul > li {
 }
 /* Large devices style */
 @media (min-width: 768px) {
-    
+.events, .location, .festival {
+    margin: 20px 100px;
+    padding: 20px;
+    }
 }
