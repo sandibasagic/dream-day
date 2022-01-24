@@ -370,3 +370,14 @@ footer > ul > li {
     height: 100vh;
     background: url(../images/background-image-thankyou.jpeg)no-repeat center center/cover;
 }
+.thankyoup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    margin-top: 90px;
+    padding: 0;
+    font-size: 4.5rem;
+    z-index: 1;
+    color: white;
+} 
