@@ -415,4 +415,8 @@ footer > ul > li {
     margin: 20px 100px;
     padding: 20px;
     }
+.regular, .vip {
+    margin: 20px 100px;
+    padding: 50px;
+    }
 }
