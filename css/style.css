@@ -380,4 +380,8 @@ footer > ul > li {
     font-size: 4.5rem;
     z-index: 1;
     color: white;
+}
+/* tablet style */
+@media (min-width: 548px) {
+    
 } 
