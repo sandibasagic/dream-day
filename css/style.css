@@ -477,5 +477,8 @@ form {
 .events, .location, .festival {
     margin: 40px 150px;
     padding: 40px 0px;
-    }
+}
+#about > h1 {
+    margin-top: 60px;
+}
 }
