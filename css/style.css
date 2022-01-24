@@ -362,3 +362,6 @@ input, textarea {
     text-decoration:none;
     list-style-type: none;   
 }
+footer > ul > li {
+    margin: 20px;
+}
