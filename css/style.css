@@ -190,3 +190,9 @@ body {
     padding: -1;
     list-style-type: none;
 }
+.mainstage > ul > li {
+    color: #fff;
+    padding: 0;
+    margin: 20px 20px;
+    border: 0;
+}
