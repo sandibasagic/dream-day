@@ -1,0 +1,6 @@
+:root {
+    --primary-color: rgba(29, 109, 133, 0.5);
+    --overlay-color: rgba(0, 109, 133, 1);
+    --box-color: rgba(255, 255, 255, 0.2);
+    --menu-speed: 0.75s;
+}
