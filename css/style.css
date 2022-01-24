@@ -473,4 +473,9 @@ form {
     margin-top: 40px;
 }
 /* Large devices style */
-@media (min-width: 920px)
+@media (min-width: 920px) {
+.events, .location, .festival {
+    margin: 40px 150px;
+    padding: 40px 0px;
+    }
+}
