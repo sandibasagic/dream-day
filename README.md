@@ -163,7 +163,7 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
 
 + The tickets section gives a user a basic information on types of tickets and what's included.
    
-   \
+    \
     &nbsp;
 
     *Tickets Information*
