@@ -206,6 +206,13 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
     ![Send Button](wireframes/send-button.png)
     \
     &nbsp;
++ By sending the message, user gets response by the site by opening new page with "thank you" message.  
+    \
+    &nbsp;
+
+    ![Send Button](wireframes/thank-you.png)
+    \
+    &nbsp;
 + The user can visit Dream Day Festival on social media platforms for more content and information.  
     \
     &nbsp;
