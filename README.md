@@ -8,7 +8,9 @@ This site gives visitors and users basic and important information about the eve
     * [User Goals](#user-goals "User Goals")
     * [User Stories](#user-stories "User Stories")
     * [Site Owners Goals](#site-owners-goals)
-
+    * [User Requirements and Expectations](#user-requirements-and-expectations)
+         * [Requirements](#requirements)
+         * [Expectations](#expectations)
 
 
 # UX
