@@ -273,3 +273,5 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
 ## Languages
 - HTML 
 - CSS 
+## Libraries & Framework
+* [Google Fonts](https://fonts.google.com/ "Google Fonts")
