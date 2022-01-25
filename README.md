@@ -104,7 +104,7 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
 
     ![Landing Page](wireframes/landing-image.jpeg)
 
-    - A click on a button will take user to Line Up section.
+    - A click on a button will take user to About section.
 
     ![Landing Page](wireframes/readmore.png)
 
