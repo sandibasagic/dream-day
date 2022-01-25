@@ -213,6 +213,12 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
     ![Social Media](wireframes/follow.png)
     \
     &nbsp;
+## Features to be Implemented
+
++ By clicking one of the links in the menu, the menu itself could close it. It would be more inconvenient and faster.
++ Links and information about sponsors and their prizes.
++ Add a direct ticket purchase option.
++ In case of real use, links to social media wouldn't take user to home page.
 
 # UX
 
