@@ -17,6 +17,10 @@ This site gives visitors and users basic and important information about the eve
          * [Colours](#colours)
          * [Structure](#structure)
 
+## Design Choices
+
+### Fonts
+
 
 # UX
 
