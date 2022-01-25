@@ -41,6 +41,9 @@ I have used https://rgbacolorpicker.com/ for picking colors. I have used variabl
  * RGB 0, 0, 0, - This colour will be used on the line up section as backround. 
  * #fff - This colour will be used as a text color in contact form. 
 
+ ### Structure
+ I will be building my website with a mobile first mindset using the 320px as the smallest screen size for styling to look good on. Mobile first aproach is also used, as its expected that most users will visit the site through mobile device.
+
 
 
 # UX
