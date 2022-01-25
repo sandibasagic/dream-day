@@ -85,6 +85,12 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
 &nbsp;
     ![Navigation bar](wireframes/hamburger.png)
 
++ Menu
+\
+&nbsp;
+    ![Menu](wireframes/menu.png)
+    - When clicked, there is a menu for each section of the page. Every section has its own working link when clicked, it takes you to your desired destination.
+
 # UX
 
 ## User Goals
