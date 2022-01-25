@@ -31,7 +31,7 @@ I have used https://rgbacolorpicker.com/ for picking colors. I have used variabl
 + RGBA values for primary color.
 \
 &nbsp;
-    ![Primary Color](wireframes/primary.png)
+    ![Primary Color](wireframes/Primary.png)
 
  - Rgba values for primary color.
  \
