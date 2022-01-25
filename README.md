@@ -290,3 +290,19 @@ My biggest challenge was responsive design across multiple screen sizes. When I 
 ## Unfixed Bugs
 
 When user opens menu, by clicking one of links, the menu should then close. I would fix this with javascript, but in this project, I was only allowed to use HTML/CSS. In case of real festival and company behind it, I would set social media links to their actual social media profiles. 
+# Deployment
+
+Following writing the code then commiting and pushing to GitHub, this project was deployed using GitHub by the following steps.
+
++ Navigate to the repository on github and click 'Settings'.
++ Then select 'Pages' on the side navigation.
++ Select the 'None' dropdown, and then click 'master'.
++ Click on the 'Save' button.
++ Now the website is now live on https://sandibasagic.github.io/dream-day/
++ If any changes are required, they can be done, commited and pushed to GitHub and the changes will be updated.
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
