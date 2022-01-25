@@ -11,6 +11,11 @@ This site gives visitors and users basic and important information about the eve
     * [User Requirements and Expectations](#user-requirements-and-expectations)
          * [Requirements](#requirements)
          * [Expectations](#expectations)
+    * [Design Choices](#design-choices)
+         * [Fonts](#fonts)
+         * [Icons](#icons)
+         * [Colours](#colours)
+         * [Structure](#structure)
 
 
 # UX
