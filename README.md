@@ -42,7 +42,21 @@ I have used https://rgbacolorpicker.com/ for picking colors. I have used variabl
  * #fff - This colour will be used as a text color in contact form. 
 
  ### Structure
- I will be building my website with a mobile first mindset using the 320px as the smallest screen size for styling to look good on. Mobile first aproach is also used, as its expected that most users will visit the site through mobile device.
+ I will be building my website with a mobile first mindset using the 320px as the smallest screen size for styling to look good. Mobile first aproach is also used, as its expected that most users will visit the site through mobile device. I used this breakpoints, as they seem to be standard. 
+
+ | Screen Size | Breakpoint |
+| ----------- | ---------- |
+| x-small     | <576px     |
+| small       | => 576px   |
+| medium      | => 768px   |
+| large       | => 992px   |
+| x-large     | => 1200px  |
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
 
 
 
