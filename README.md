@@ -36,6 +36,12 @@ I have used https://rgbacolorpicker.com/ for picking colors. I have used variabl
 ![boxcolor](wireframes/overlay.png) 
 
 
+ * RGB 29, 109, 133, - This colour will be used as a primary color with opacity of 0.5
+ * RGB 0, 109, 133, - This colour will be used as overlay color with opacity of 1.
+ * RGB 0, 0, 0, - This colour will be used on the line up section as backround. 
+ * #fff - This colour will be used as a text color in contact form. 
+
+
 
 # UX
 
