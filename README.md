@@ -136,6 +136,7 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
     \
     &nbsp;
 
+
     \
     &nbsp;
 
@@ -144,7 +145,7 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
     ![About Section on Mobile] (wireframes/about-mobile.png)
     \
     &nbsp;
-    
+
 # UX
 
 ## User Goals
