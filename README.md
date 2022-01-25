@@ -287,3 +287,6 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
 # Testing
 
 My biggest challenge was responsive design across multiple screen sizes. When I manually changed screen size, everything was working. But when I used screen size by "Inspector" and set it to variables devices, my responsive design fell apart. Code itself went throught both W3C HTML and W3C CSS validation. There was no bigger errors, rather than few small typo's. 
+## Unfixed Bugs
+
+When user opens menu, by clicking one of links, the menu should then close. I would fix this with javascript, but in this project, I was only allowed to use HTML/CSS. In case of real festival and company behind it, I would set social media links to their actual social media profiles. 
