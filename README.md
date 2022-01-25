@@ -97,6 +97,17 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
     ![Close Menu](wireframes/close.png)
     - When clicked, you are closing menu page.
 
+### Landing Page
+
++ The landing page image
+    - The image gives the user instant knowledge of what is involved at the festival, and what to expect if visited. 
+    - Second heading tells the user that there could be an unforgettable experiance.
+
+ \
+    &nbsp;
+
+    ![Landing Page](wireframes/landing-image.png)
+
 # UX
 
 ## User Goals
