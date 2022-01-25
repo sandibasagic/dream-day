@@ -275,3 +275,12 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
 - CSS 
 ## Libraries & Framework
 * [Google Fonts](https://fonts.google.com/ "Google Fonts")
+## Tools
+* [Gitpod](https://www.gitpod.io/ "Gitpod")
+* [Balsamic](https://balsamiq.com/wireframes/ "Balsamic")
+* [W3C HTML Validation Service](https://validator.w3.org/ "W3C HTML")
+* [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/ "W3C CSS")
+* [Color Picker](https://rgbacolorpicker.com// "Color Picker")
+* [Google Fonts](https://fonts.google.com/ "Google Fonts")
+* [Pexels](https://www.pexels.com/ "Pexels")
+* [Box Shadow Generator](https://html-css-js.com/css/generator/box-shadow/ "html-css-js.com")
