@@ -28,10 +28,10 @@ Here I used 4 icons for the "social-media" part. I choose background image as ic
 ### Colours 
 I have used https://rgbacolorpicker.com/ for picking colors. I have used variables for colors, because in case of changing mind about colors, I can only change variable tag and not every element that was styled with this color. There are three main colors. Because of very colorful background images, I have used RGBA function with opacity. Primary and overlay colors were mostly used in hamburger menu styling. Box color was used on page box elements. Below are color codes and pictures for better presentation.
 
- - Rgba values for box color.
- \
++ RGBA values for primary color.
+\
 &nbsp;
-![Primary Color](wireframes/primary.png) 
+    ![Primary Color](wireframes/primary.png)
 
  - Rgba values for primary color.
  \
