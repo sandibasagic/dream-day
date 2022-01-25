@@ -206,6 +206,14 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
     ![Send Button](wireframes/send-button.png)
     \
     &nbsp;
++ The user can visit Dream Day Festival on social media platforms for more content and information.  
+    \
+    &nbsp;
+
+    ![Social Media](wireframes/follow.png)
+    \
+    &nbsp;
+
 # UX
 
 ## User Goals
