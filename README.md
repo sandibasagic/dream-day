@@ -199,6 +199,13 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
     ![Contact Section](wireframes/contact.png)
     \
     &nbsp;
++ The user can send message by clicking this button.  
+    \
+    &nbsp;
+
+    ![Send Button](wireframes/send-button.png)
+    \
+    &nbsp;
 # UX
 
 ## User Goals
