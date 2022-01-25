@@ -106,13 +106,25 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
 
     - A click on a button will take user to About section.
 
-    ![Landing Page](wireframes/readmore.png)
+    ![Read More](wireframes/readmore.png)
 
     \
 &nbsp;
 [Back to Top](#table-of-contents)
 \
 &nbsp;
+
+### About Section
+
++ The about section gives a brief description of what to expect at the festival. It is also responsive to suit the different screen sizes.
+    \
+    &nbsp;
+
+    *Desktop*
+
+    ![About Section on Desktop](wireframes/about-desktop.png)
+    \
+    &nbsp;
 
 # UX
 
