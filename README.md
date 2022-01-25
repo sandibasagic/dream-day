@@ -142,7 +142,7 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
 
     *Mobile*
 
-    ![About Section on Mobile] (wireframes/about-mobile.png)
+    ![About Section on Mobile](wireframes/about-mobile.png)
     \
     &nbsp;
 
