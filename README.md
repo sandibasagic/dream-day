@@ -171,7 +171,7 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
     ![Tickets Information](wireframes/tickets-info.png)
     \
     &nbsp;
-+ Buy tickets button takes user to www.eventim.com homepage where they can purchase tickets.
++ Buy tickets button takes user to www.eventim.com homepage where they can purchase tickets. There is also a little hover effect, so that user knows that this button can be clicked. 
    
     \
     &nbsp;
