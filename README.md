@@ -110,6 +110,9 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
 
     \
 &nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
 
 # UX
 
