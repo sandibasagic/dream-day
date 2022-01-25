@@ -104,7 +104,7 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
 
     ![Landing Page](wireframes/landing-image.jpeg)
 
-    - Second heading tells the user that there could be an unforgettable experiance. A click on a button will take user to Line Up section.
+    - A click on a button will take user to Line Up section.
 
     ![Landing Page](wireframes/readmore.png)
 
