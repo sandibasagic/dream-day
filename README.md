@@ -30,6 +30,10 @@ I have used https://rgbacolorpicker.com/ for picking colors. I have used variabl
 
  - Rgba values for box color.
 ![boxcolor](wireframes/box-color.png) 
+ - Rgba values for primary color.
+![boxcolor](wireframes/primary.png) 
+ - Rgba values for overlay color.
+![boxcolor](wireframes/overlay.png) 
 
 
 
