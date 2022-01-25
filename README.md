@@ -150,6 +150,15 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
 
 + This is where user finds all performing artist. There is a link to each artist, so user can click and dicover more information about the artist and what to expect from thier performance. In case of non existing web page, I included links to their Facebook pages.
 
+    \
+    &nbsp;
+
+    *Mobile*
+
+    ![Line Up](wireframes/line-up.png)
+    \
+    &nbsp;
+
 # UX
 
 ## User Goals
