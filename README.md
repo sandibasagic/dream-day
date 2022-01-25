@@ -284,3 +284,6 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
 * [Google Fonts](https://fonts.google.com/ "Google Fonts")
 * [Pexels](https://www.pexels.com/ "Pexels")
 * [Box Shadow Generator](https://html-css-js.com/css/generator/box-shadow/ "html-css-js.com")
+# Testing
+
+My biggest challenge was responsive design across multiple screen sizes. When I manually changed screen size, everything was working. But when I used screen size by "Inspector" and set it to variables devices, my responsive design fell apart. Code itself went throught both W3C HTML and W3C CSS validation. There was no bigger errors, rather than few small typo's. 
