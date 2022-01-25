@@ -4,6 +4,10 @@ Dream day festival is electronic music event held in Amsterdam, Netherlands. It'
 This site gives visitors and users basic and important information about the event, location, line up, tickets and contact in case of questions. 
 
 # Table of Contents 
+* [UX](#ux "UX")
+    * [User Goals](#user-goals "User Goals")
+    * [User Stories](#user-stories "User Stories")
+    * [Site Owners Goals](#site-owners-goals)
 
 
 
