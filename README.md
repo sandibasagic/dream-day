@@ -313,3 +313,8 @@ For code insperation, help and advice,
 * [Simen Daehlin](https://github.com/Eventyret "Simen Daehlin")
 Hamburger Menu Design
 * [Traversy Media](https://www.traversymedia.com/ "Traversy Media")
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
