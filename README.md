@@ -102,7 +102,7 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
 + The landing page image
     - The image gives the user instant knowledge of what is involved at the festival, and what to expect if visited. 
 
-    ![Landing Page](wireframes/landing-image.png)
+    ![Landing Page](wireframes/landing-image.jpeg)
 
     - Second heading tells the user that there could be an unforgettable experiance. A click on a button will take user to Line Up section.
 
