@@ -20,8 +20,7 @@ This site gives visitors and users basic and important information about the eve
 ## Design Choices
 
 ### Fonts
-
-
+When choosing fonts for the page, I stopped at [Google Fonts] https://fonts.google.com/. After a short search, I came across a font named 'Dongle'. I liked this font because of its shape and there is no extra sharp edges. The main purpose of the site is to make easy going experience with the user, so I choose this style of font. Same font style is also aplied in contact form, so the original font from contact form doesn't stand out too much. In case of fallback, I included CSS generic font family "sans-serif". 
 # UX
 
 ## User Goals
