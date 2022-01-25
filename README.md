@@ -108,7 +108,7 @@ I have used https://rgbacolorpicker.com/ for picking colors. I have used variabl
 &nbsp;
 
 # Wireframes
-I have used [Balsamic](https://balsamiq.com/wireframes/ "Balsamic") to develop my wireframe for my website. I initially created the desktop version and then the wireframes and then scalled it down for both tablet and mobile. When creating website, I then started with mobile first, but I had brief idea how the webiste should look. Keeping a simple user friendly experince, a one-page website is used. This gets the user through the content and quickly to the contact form and details via scrolling or directly via the navigation bar.
+I have used [Balsamic](https://balsamiq.com/wireframes/ "Balsamic") to develop my wireframe for the website. I only created the desktop version, just to have an idea in which direction the site would go.  When creating website, I then started with mobile first, and then adjusting to larger screens. Keeping a simple user friendly experince, a one-page website is used. This gets the user through the content and quickly to the contact form and details via scrolling or directly via the navigation bar.
 
 The wireframe is below:
 
