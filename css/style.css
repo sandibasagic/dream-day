@@ -66,7 +66,7 @@ body {
     background-color: var(--primary-color);
     color: white;
     padding: 0.75rem 2rem;
-    margin-top: 1.rem;
+    margin-top: 1rem;
     text-decoration: none;
     transition: 1s ease-in;
     font-size: 1.5rem;
@@ -183,11 +183,8 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    text-decoration-style: none;
     z-index: 1;
     font-size: 2rem;
-    margin: -1;
-    padding: -1;
     list-style-type: none;
 }
 .mainstage > ul > li {
