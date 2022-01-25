@@ -21,6 +21,9 @@ This site gives visitors and users basic and important information about the eve
 
 ### Fonts
 When choosing fonts for the page, I stopped at [Google Fonts] https://fonts.google.com/. After a short search, I came across a font named 'Dongle'. I liked this font because of its shape and there is no extra sharp edges. The main purpose of the site is to make easy going experience with the user, so I choose this style of font. Same font style is also aplied in contact form, so the original font from contact form doesn't stand out too much. In case of fallback, I included CSS generic font family "sans-serif". 
+
+### Icons
+Here I used 4 icons for the "social-media" part. I choose background image as icon on a link, so user can clik on desired icon and visit homepage of choosen social media platform. I got icons via basic search on google https://www.google.com/imghp?hl=en. After choosing icons, I then styled them in style.css file for better page position and look.
 # UX
 
 ## User Goals
