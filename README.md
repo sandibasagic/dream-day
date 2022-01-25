@@ -153,7 +153,7 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
     \
     &nbsp;
 
-    *Mobile*
+    *Line Up*
 
     ![Line Up](wireframes/line-up.png)
     \
