@@ -306,3 +306,10 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 [Back to Top](#table-of-contents)
 \
 &nbsp;
+
+# Credits
+
+For code insperation, help and advice,
+* [Simen Daehlin](https://github.com/Eventyret "Simen Daehlin")
+Hamburger Menu Design
+* [Traversy Media](https://www.traversymedia.com/ "Traversy Media")
