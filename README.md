@@ -31,7 +31,7 @@ I have used https://rgbacolorpicker.com/ for picking colors. I have used variabl
  - Rgba values for box color.
  \
 &nbsp;
-![boxcolor](wireframes/box-color.png) 
+![Primary Color](wireframes/primary.png) 
 
  - Rgba values for primary color.
  \
