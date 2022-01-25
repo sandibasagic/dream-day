@@ -91,6 +91,12 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
     ![Menu](wireframes/menu.png)
     - When clicked, there is a menu for each section of the page. Every section has its own working link when clicked, it takes you to your desired destination.
 
++ Close menu
+\
+&nbsp;
+    ![Close Menu](wireframes/close.png)
+    - When clicked, you are closing menu page.
+
 # UX
 
 ## User Goals
