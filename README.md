@@ -126,6 +126,16 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
     \
     &nbsp;
 
+
+    \
+    &nbsp;
+
+    *Tablet*
+
+    ![About Section on Tablet](wireframes/about-tablet.png)
+    \
+    &nbsp;
+
 # UX
 
 ## User Goals
