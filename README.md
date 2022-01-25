@@ -72,7 +72,18 @@ The wireframe is below:
 \
 &nbsp;
 
+# Features
 
+## Existing Features
+
+### Navigation Bar
+
+The hamburger navigation bar is fixed in all screen sizes and thats why it doesnt brake anything through the page. It includes links to manover around the site easily. Using javascript I could make menu close when a link to page is clicked. But since I'm only allow to use HTML/CSS, I would use this feature in my next projects.
+
++ Hamburger menu
+\
+&nbsp;
+    ![Navigation bar](wireframes/hamburger.png)
 
 # UX
 
