@@ -33,15 +33,10 @@ I have used https://rgbacolorpicker.com/ for picking colors. I have used variabl
 &nbsp;
     ![Primary Color](wireframes/Primary.png)
 
- - Rgba values for primary color.
- \
++ RGBA values for overlay color.
+\
 &nbsp;
-![boxcolor](wireframes/primary.png)
-
- - Rgba values for overlay color.
- \
-&nbsp;
-![boxcolor](wireframes/overlay.png) 
+    ![Overlay Color](wireframes/Overlay.png)
 
 
  * RGB 29, 109, 133, - This colour will be used as a primary color with opacity of 0.5
