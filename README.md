@@ -24,6 +24,11 @@ When choosing fonts for the page, I stopped at [Google Fonts] https://fonts.goog
 
 ### Icons
 Here I used 4 icons for the "social-media" part. I choose background image as icon on a link, so user can clik on desired icon and visit homepage of choosen social media platform. I got icons via basic search on google https://www.google.com/imghp?hl=en. After choosing icons, I then styled them in style.css file for better page position and look.
+
+### Colours 
+I have used https://rgbacolorpicker.com/ for picking colors. I have used variables for colors. There are three main colors. Because of very colorful background images, I have used RGBA function with opacity. Primary and overlay colors were mostly used in hamburger menu styling. Box color was used on page box elements. Below are color codes and pictures for better presentation.
+
+
 # UX
 
 ## User Goals
