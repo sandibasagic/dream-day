@@ -192,7 +192,7 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
 
 ### Contact Section
 
-+ The contact section allows the user to quickly send a message to Dream Day. 
++ The contact section allows the user to quickly send a message to Dream Day or visit social media platforms.
     \
     &nbsp;
 
