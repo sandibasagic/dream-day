@@ -277,7 +277,7 @@ input, textarea {
     list-style-type: none;   
 }
 footer > ul > li {
-    margin: 0.5;
+    margin: 0 0.5rem;
 }
 .thankyou {
     width: 100%;
@@ -373,9 +373,7 @@ form {
     margin: 10px 90px;
     padding: 0;
 }
-.social {
-   
-}
+
 /* Large devices style */
 @media (min-width: 920px) {
 .events, .location, .festival {
