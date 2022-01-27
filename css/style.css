@@ -78,6 +78,18 @@ body {
     text-decoration: none;
     font-size: 1.5rem;
 }
+.btn3 {
+    display: inline-block;
+    border: 1px solid #fff;
+    border-radius: 15px;
+    background-color: var(--primary-color);
+    color: white;
+    padding: 0.75rem 2rem;
+    margin-top: 1rem;
+    text-decoration: none;
+    transition: 1s ease-in;
+    font-size: 1rem;
+}
 .btn:hover {
     color: #fff;
     opacity: 0.2;
