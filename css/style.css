@@ -138,7 +138,6 @@ body {
     font-size: 4rem;
     display: flex;
     justify-content: center;
-
 }
 .mainstage, .dreamstage {
     display: flex;
@@ -149,13 +148,6 @@ body {
     font-size: 1.5rem;
     list-style-type: none;
 }
-.mainstage > ul > li {
-    color: #fff;
-    padding: 0;
-    margin: ;
-    border: 0;
-}
-
 li a {
     color:white;
     text-decoration: none;
