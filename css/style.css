@@ -83,12 +83,12 @@ body {
     border: 1px solid #fff;
     border-radius: 15px;
     background-color: var(--primary-color);
-    color: white;
     padding: 0.75rem 2rem;
     margin-top: 1rem;
     text-decoration: none;
     transition: 1s ease-in;
     font-size: 1rem;
+    font-family: 'Dongle';
 }
 .btn:hover {
     color: #fff;
@@ -247,7 +247,7 @@ section > h3 {
     display: flex;
     justify-content: center;
     margin: 0;
-    padding: 0;
+    padding: 0 2rem;
 }
 input, textarea {
     font-family: 'Dongle', sans-serif;
@@ -369,21 +369,16 @@ footer > ul > li {
     
 }
 form {
-    padding: 20px;
+   
 }
 .form-input {
     
 }
 .btn2 {
-    margin: 10px 90px;
-    padding: 10px 50px;
+    
 }
 .followh {
     
-}
-#formsend {
-    margin: 10px 90px;
-    padding: 0;
 }
 
 /* Large devices style */
@@ -425,8 +420,8 @@ form {
     margin: 10px 150px; 
 }
 #formsend {
-    margin: 10px 150px;
-    padding: 0;
+    
+
 }
 }
 /* Large devices style */
