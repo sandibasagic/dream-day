@@ -135,42 +135,27 @@ body {
 }
 #lineup > h1 {
     z-index: 1;
-    font-size: 5rem;
+    font-size: 4rem;
     display: flex;
     justify-content: center;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    margin: 0%;
-    padding: 0;
+
 }
-.mainstage {
+.mainstage, .dreamstage {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     z-index: 1;
-    font-size: 2rem;
+    font-size: 1.5rem;
     list-style-type: none;
 }
 .mainstage > ul > li {
     color: #fff;
     padding: 0;
-    margin: 20px 20px;
+    margin: ;
     border: 0;
 }
-.dreamstage {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    z-index: 1;
-    font-size: 2rem;
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-}
+
 li a {
     color:white;
     text-decoration: none;
@@ -389,17 +374,14 @@ footer > ul > li {
 #lineup > h1 {
     margin: 0;
     padding: 0;
-    margin-top: 30px;
 }
 #lineup > h3 {
     margin: 0;
     padding: 0;
-    border: 0;
-    margin-top: 10px;
-    font-size: 3em;    
+    border: 0;    
 }
 .mainstage {
-    margin-top: 5px;
+
 }
 
 .contacth {
