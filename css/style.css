@@ -367,14 +367,14 @@ form {
     padding: 10px 50px;
 }
 .followh {
-    font-size: 3em;
+    
 }
 #formsend {
     margin: 10px 90px;
     padding: 0;
 }
 .social {
-    margin-top: 40px;
+   
 }
 /* Large devices style */
 @media (min-width: 920px) {
