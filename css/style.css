@@ -358,29 +358,6 @@ footer > ul > li {
     padding: 0;
     border: 0;    
 }
-.mainstage {
-
-}
-
-.contacth {
-
-}
-.contacth2 {
-    
-}
-form {
-   
-}
-.form-input {
-    
-}
-.btn2 {
-    
-}
-.followh {
-    
-}
-
 /* Large devices style */
 @media (min-width: 920px) {
 .events, .location, .festival {
