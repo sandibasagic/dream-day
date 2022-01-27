@@ -172,11 +172,9 @@ section > h3 {
 }
 .ticketsh {
     z-index: 1;
-    font-size: 5rem;
+    font-size: 4.5rem;
     display: flex;
     justify-content: center;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
 }
 .regular, .vip {
     font-size: 2rem;
@@ -185,13 +183,11 @@ section > h3 {
     grid-template-columns: 1fr;
     border: 2px solid #fff;
     border-radius: 18px;
-    padding: 10px;
     z-index: 1;
+    margin: 2rem 2rem;
     justify-content: center;
     align-items: center;
     text-align: center;
-    padding: 20px;
-    margin: 40px 20px;
     box-shadow: 5px 5px 15px 5px rgba(255,255,255,0.10);
 }
 .tlink {
