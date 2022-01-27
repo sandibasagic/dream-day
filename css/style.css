@@ -224,13 +224,17 @@ section > h3 {
 .form {
     display: flex;
     flex-direction: column;
-    margin: 0;
+    margin: 0 0.1rem;
     padding: 0;
+}
+.form-input {
+    padding: 1rem 1rem;
+    margin: 0.2rem 1.5rem;
 }
 #formsend {
     display: flex;
     justify-content: center;
-    margin: 20px;
+    margin: 0;
     padding: 0;
 }
 input, textarea {
@@ -244,8 +248,6 @@ input, textarea {
     border-radius: 18px;
     justify-content: center;
     align-items: center;
-    padding: 10px;
-    margin: 20px;
     box-shadow: 5px 5px 15px 5px rgba(255,255,255,0.10);
 }
 ::placeholder {
@@ -257,7 +259,6 @@ input, textarea {
     align-items: center;
     padding: 0;
     margin: 0;
-    margin-bottom: 0px;
     font-size: 2.2rem;
 }
 .copyright {
@@ -276,7 +277,7 @@ input, textarea {
     list-style-type: none;   
 }
 footer > ul > li {
-    margin: 20px;
+    margin: 0.5;
 }
 .thankyou {
     width: 100%;
@@ -359,7 +360,7 @@ form {
     padding: 20px;
 }
 .form-input {
-    margin: 10px 90px; 
+    
 }
 .btn2 {
     margin: 10px 90px;
@@ -367,7 +368,6 @@ form {
 }
 .followh {
     font-size: 3em;
-    margin-top: 50px;
 }
 #formsend {
     margin: 10px 90px;
