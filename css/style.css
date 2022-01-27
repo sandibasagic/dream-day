@@ -248,6 +248,7 @@ section > h3 {
     justify-content: center;
     margin: 0;
     padding: 0 2rem;
+    color: #fff;
 }
 input, textarea {
     font-family: 'Dongle', sans-serif;
