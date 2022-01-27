@@ -177,28 +177,8 @@ section > h3 {
     justify-content: center;
     margin-block-start: 1em;
     margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    margin: 0%;
-
 }
-.regular {
-    font-size: 2rem;
-    background: rgba(0, 0, 0, 0.1);
-    display: grid;
-    grid-template-columns: 1fr;
-    border: 2px solid #fff;
-    border-radius: 18px;
-    padding: 10px;
-    z-index: 1;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    padding: 20px;
-    margin: 40px 20px;
-    box-shadow: 5px 5px 15px 5px rgba(255,255,255,0.10);
-}
-.vip {
+.regular, .vip {
     font-size: 2rem;
     background: rgba(0, 0, 0, 0.1);
     display: grid;
