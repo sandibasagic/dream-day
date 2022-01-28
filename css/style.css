@@ -221,6 +221,7 @@ section > h3 {
   justify-content: center;
   margin: 0 0.3rem;
   padding: 0;
+  font-size: 1.7rem;
 }
 .form {
   display: flex;
