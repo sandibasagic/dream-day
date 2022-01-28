@@ -285,3 +285,22 @@ input, textarea {
 footer > ul > li {
   margin: 0 0.8rem;
 }
+@media (min-width:548px) {
+  .festival, .location, .events {
+    margin: 2rem 2rem;
+    padding: 4%;
+  }
+  .mainstage, .dreamstage {
+    font-size: 2rem;
+  }
+  .lineup-main {
+    font-size: 3rem;
+  }
+  .vip, .regular {
+    margin: 3rem;
+    padding: 4%;
+  }
+  .form-input {
+    border: 4% 0;
+  }
+}
