@@ -304,3 +304,12 @@ footer > ul > li {
     border: 4% 0;
   }
 }
+@media (min-width:920px) {
+  .festival, .location, .events {
+    padding: 3rem;
+    margin: 4rem;
+  }
+  .form-input {
+    margin: 1rem 2rem;
+  }
+}
