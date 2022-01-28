@@ -4,7 +4,7 @@
     right: 0;
     z-index: 1;
 }
-.menu-wrap .navigation {
+.menu-wrap .menubar {
     position: absolute;
     top: 0;
     right: 0;
@@ -53,28 +53,28 @@
     top: 10px;
 }
 /* Toggler Animate */
-.menu-wrap .navigation:checked + .hamburger > div {
+.menu-wrap .menubar:checked + .hamburger > div {
     transform: rotate(135deg);
 }
 /* turn lines into x */
-.menu-wrap .navigation:checked + .hamburger > div::before,
-.menu-wrap .navigation:checked + .hamburger > div::after {
+.menu-wrap .menubar:checked + .hamburger > div::before,
+.menu-wrap .menubar:checked + .hamburger > div::after {
     top: 0;
     transform: rotate(90deg);
 }
 /* Rotate on hover when checked */
-.menu-wrap .navigation:checked:hover + .hamburger > div {
+.menu-wrap .menubar:checked:hover + .hamburger > div {
     transform: rotate(225deg);
 }
 /* Show menu */
-.menu-wrap .navigation:checked ~ .menu {
+.menu-wrap .menubar:checked ~ .menu {
     visibility: visible;
 }
-.menu-wrap .navigation:checked ~ .menu > div{
+.menu-wrap .menubar:checked ~ .menu > div{
     transform: scale(1);
     transition-duration: var(--menu-speed);
 }
-.menu-wrap .navigation:checked ~ .menu > div > div {
+.menu-wrap .menubar:checked ~ .menu > div > div {
     opacity: 1;
     transition:  opacity 0.4s ease 0.4s;    
 }
