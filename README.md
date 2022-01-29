@@ -23,7 +23,7 @@ This site gives visitors and users basic and important information about the eve
         * [Navigation Bar](#navigation-bar)
         * [Landing Page](#landing-page)
         * [About Section](#about-section)
-        * [Line Up Section](#lineup-section)
+        * [Line Up Section](#line-up-section)
         * [Tickets Section](#tickets-section)
         * [Contact Section](#contact-section)
 # UX
