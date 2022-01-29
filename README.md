@@ -289,8 +289,14 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
 * [Pexels](https://www.pexels.com/ "Pexels")
 * [Box Shadow Generator](https://html-css-js.com/css/generator/box-shadow/ "html-css-js.com")
 # Testing
++ The Dream Day Festival has been validated via W3C HTML Validator and the W3C CSS Validator. HTML document passed with no errors found. However CSS file had two minor errors which were fixed.
+    \
+    &nbsp;
 
-My biggest challenge was responsive design across multiple screen sizes. When I manually changed screen size, everything was working. But when I used screen size by "Inspector" and set it to variables devices, my responsive design fell apart. Code itself went throught both W3C HTML and W3C CSS validation. There was no bigger errors, rather than few small typo's. 
+    ![HTML Validator](wireframes/html-validator.png)
+    \
+    &nbsp;
+ 
 ## Unfixed Bugs
 
 When user opens menu, by clicking one of links, the menu should then close. I would fix this with javascript, but in this project, I was only allowed to use HTML/CSS. In case of real festival and company behind it, I would set social media links to their actual social media profiles. 
