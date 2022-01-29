@@ -18,6 +18,7 @@ This site gives visitors and users basic and important information about the eve
          * [Icons](#icons)
          * [Colours](#colours)
          * [Structure](#structure)
+    * [Wireframes](#wireframes "Wireframes")
 # UX
 
 ## User Goals
