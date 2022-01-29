@@ -26,6 +26,13 @@ This site gives visitors and users basic and important information about the eve
         * [Line Up Section](#line-up-section)
         * [Tickets Section](#tickets-section)
         * [Contact Section](#contact-section)
+    * [Features to be implemented](#features-to-be-implemented)
+    * [Technologies used](#technologies-used)
+    * [Testing](#testing)
+        * [Unfixed Bugs](#unfixed-bugs)
+    * [Deployment](#deployment)
+    * [Credits](#credits)
+
 # UX
 
 ## User Goals
