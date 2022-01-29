@@ -350,6 +350,11 @@ In addition to the automated process above, manual testing was carried out on th
   * Verified that Line Up Section is fully responsive on all screen sizes.
   * Verified that each artist has a link to their official page or Facebook profile. 
   * Verified that all links open in new tab.
+
+* Tickets Section
+  * Verified that Tickets Section is fully responsive on all screen sizes.
+  * Verified that button in Tickets Section works and takes user to official ticket partner [Eventim](https://www.eventim.com/ "Eventim")
+  * Verified that button link open in a new tab.
  
 ## Unfixed Bugs
 
