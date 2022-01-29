@@ -296,6 +296,13 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
     ![HTML Validator](wireframes/html-validator.png)
     \
     &nbsp;
++ The CSS validator with described errors.
+    \
+    &nbsp;
+
+    ![CSS Validator](wireframes/css-validator-errors.png)
+    \
+    &nbsp;
  
 ## Unfixed Bugs
 
