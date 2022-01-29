@@ -345,6 +345,11 @@ In addition to the automated process above, manual testing was carried out on th
 
 * About section
   * Verified that about section is responsive in all screen sizes.
+
+* Line Up Section
+  * Verified that Line Up Section is fully responsive on all screen sizes.
+  * Verified that each artist has a link to their official page or Facebook profile. 
+  * Verified that all links open in new tab.
  
 ## Unfixed Bugs
 
