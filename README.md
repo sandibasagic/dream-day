@@ -310,6 +310,21 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
     ![CSS Validator](wireframes/css-error-free.png)
     \
     &nbsp;
+## Lighthouse
++ The Dream Day Festival has been tested with Lighthouse. There was room to improve on Accessibility with a result below. I then added Aria Label in HMTL file and fixed error.
+    \
+    &nbsp;
+
+    ![Lighthouse Validator](wireframes/light-house-aria2.png)
+    \
+    &nbsp;
+
+    \
+    &nbsp;
+
+    ![Lighthouse Validator](wireframes/light-house-aria.png)
+    \
+    &nbsp;
 
  
 ## Unfixed Bugs
