@@ -314,9 +314,6 @@ footer > ul > li {
     margin: 3rem;
     padding: 4%;
   }
-  .form-input {
-    border: 4%;
-  }
 }
 @media (min-width:920px) {
   .festival, .location, .events {
