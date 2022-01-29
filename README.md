@@ -108,12 +108,16 @@ I have used https://rgbacolorpicker.com/ for picking colors. I have used variabl
 &nbsp;
 
 # Wireframes
-I have used [Balsamic](https://balsamiq.com/wireframes/ "Balsamic") to develop my wireframe for the website. I only created the desktop version, just to have an idea in which direction the site would go.  When creating website, I then started with mobile first, and then adjusting to larger screens. Keeping a simple user friendly experince, a one-page website is used. This gets the user through the content and quickly to the contact form and details via scrolling or directly via the navigation bar.
+I have used [Balsamic](https://balsamiq.com/wireframes/ "Balsamic") to develop my wireframe for the website. I first created the desktop version, just to have an idea in which direction the site would go.  When creating website, I then started with mobile first, and then adjusting to larger screens. Keeping a simple user friendly experince, a one-page website is used. This gets the user through the content and quickly to the contact form and details via scrolling or directly via the navigation bar.
 
 The wireframe is below:
 
 
 ### [Desktop Wireframe](wireframes/dream-day-basic.png "Desktop wireframe")
+
+### [Tablet Wireframe](wireframes/dream-day-tablet.png "Tablet wireframe")
+
+### [Mobile Wireframe](wireframes/dream-day-mobile.png "Mobile wireframe")
 
 \
 &nbsp;
@@ -311,7 +315,7 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 
 For code insperation, help and advice,
 * [Simen Daehlin](https://github.com/Eventyret "Simen Daehlin")
-Hamburger Menu Design
+
 * [Traversy Media](https://www.traversymedia.com/ "Traversy Media")
 \
 &nbsp;
