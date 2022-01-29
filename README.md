@@ -342,6 +342,9 @@ In addition to the automated process above, manual testing was carried out on th
 
 * Landing Page
   * Verified that a button links work properly.
+
+* About section
+  * Verified that about section is responsive in all screen sizes.
  
 ## Unfixed Bugs
 
