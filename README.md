@@ -19,6 +19,13 @@ This site gives visitors and users basic and important information about the eve
          * [Colours](#colours)
          * [Structure](#structure)
     * [Wireframes](#wireframes "Wireframes")
+    * [Features](#features "Features")
+            * [Navigation Bar](#navigation-bar)
+            * [Landing Page](#landing-page)
+            * [About Section](#about-section)
+            * [Line Up Section](#lineup-section)
+            * [Tickets Section](#tickets-section)
+            * [Contact Section](#contact-section)
 # UX
 
 ## User Goals
