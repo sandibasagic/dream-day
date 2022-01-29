@@ -356,6 +356,12 @@ In addition to the automated process above, manual testing was carried out on th
   * Verified that button in Tickets Section works and takes user to official ticket partner [Eventim](https://www.eventim.com/ "Eventim")
   * Verified that button link open in a new tab.
  
+* Contact Section
+  * Verified that Contact Section is fully responsive on all screen sizes.
+  * Verified that all input elements have required attribute.
+  * Verified that email input has a email type of input.
+  * Verified that user gets response message when a button "Send Message" is being clicked.
+  * Verified that all social media links work and open in new tab.
 ## Unfixed Bugs
 
 When user opens menu, by clicking one of links, the menu should then close. I would fix this with javascript, but in this project, I was only allowed to use HTML/CSS. In case of real festival and company behind it, I would set social media links to their actual social media profiles. 
