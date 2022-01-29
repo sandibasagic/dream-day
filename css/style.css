@@ -285,6 +285,21 @@ input, textarea {
 footer > ul > li {
   margin: 0 0.8rem;
 }
+.thankyou {
+  background-color: var(--primary-color);
+  color: #fff;
+  background: url(../images/background-image-thankyou.jpeg) no-repeat center center/cover;
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+.thankyoup {
+  display: flex;
+  justify-content: center;
+  font-size: 3rem;
+  margin-top: 6rem;
+}
 @media (min-width:548px) {
   .festival, .location, .events {
     margin: 2rem 2rem;
