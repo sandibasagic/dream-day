@@ -288,6 +288,7 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
 * [Google Fonts](https://fonts.google.com/ "Google Fonts")
 * [Pexels](https://www.pexels.com/ "Pexels")
 * [Box Shadow Generator](https://html-css-js.com/css/generator/box-shadow/ "html-css-js.com")
+* [Responsive Design](http://ami.responsivedesign.is/ "Am I Responsive")
 # Testing
 + The Dream Day Festival has been validated via W3C HTML Validator and the W3C CSS Validator. HTML document passed with no errors found. However CSS file had two minor errors which were fixed.
     \
