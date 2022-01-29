@@ -325,6 +325,13 @@ The hamburger navigation bar is fixed in all screen sizes and thats why it doesn
     ![Lighthouse Validator](wireframes/light-house-aria.png)
     \
     &nbsp;
++ The Lighthouse result after fixing HTML file.
+    \
+    &nbsp;
+
+    ![Lighthouse Validator](wireframes/lighthouse-mobile.png)
+    \
+    &nbsp;
 
  
 ## Unfixed Bugs
